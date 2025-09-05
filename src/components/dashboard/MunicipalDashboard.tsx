@@ -119,7 +119,7 @@ export const MunicipalDashboard: React.FC = () => {
                 <p className="text-gray-600 mb-4">
                   Detailed analytics and reporting features will be available in Part 3
                 </p>
-                <Badge variant="info">Coming in Part 3</Badge>
+                <Badge variant="info">No Record</Badge>
               </CardContent>
             </Card>
           </div>
@@ -136,7 +136,7 @@ export const MunicipalDashboard: React.FC = () => {
                 <p className="text-gray-600 mb-4">
                   Interactive map with issue locations and real-time updates
                 </p>
-                <Badge variant="info">Coming in Part 3</Badge>
+                <Badge variant="info">No Record</Badge>
               </CardContent>
             </Card>
           </div>
@@ -153,7 +153,7 @@ export const MunicipalDashboard: React.FC = () => {
                 <p className="text-gray-600 mb-4">
                   Configure system preferences, user management, and notifications
                 </p>
-                <Badge variant="info">Coming Soon</Badge>
+                <Badge variant="info">No Record</Badge>
               </CardContent>
             </Card>
           </div>
